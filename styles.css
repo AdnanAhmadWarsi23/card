@@ -7,7 +7,7 @@ body {
 .avatar {
     transition: 0.3s;
     border-radius: 6px;
-    border: 3px dotted #3F3C34 ;
+    border: 3px dotted #54410d ;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     animation: example 4s;
 }
